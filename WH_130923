@@ -256,3 +256,54 @@ Speaker 1
 Alright. Bye bye. Take care. 
 
 "
+CV:
+" Will Hardt
+(845) 490-1445 | hardtwill@gmail.com | LinkedIn | Personal Website | Github
+    SUMMARY
+ Ph.D. in Mathematics specializing in additive combinatorics with 4+ publications. Quantitative trading internship at Jane Street. Coursework in machine learning and deep learning. TA for graduate Math of Machine Learning. Completed data science bootcamp + a project using Python to predict patient copay at pharmacies.
+INDUSTRY EXPERIENCE
+Jane Street Capital: New York, NY May 2022 - August 2022 Quantitative Trading Intern
+● Built and analyzed linear regression models to predict investment grade bond yields using Python and SQL
+● Discovered and quantified heteroskedasticity in models of commodity markets using Python and SQL
+SELECTED PROJECTS
+Predicting Patient Copay at Pharmacies for CoverMyMeds [Github link] Fall 2022
+● Built several regression models on a large (13.9 million rows) simulated dataset of patient transactions
+● Achieved an RMSE of $15.60 using random forests compared to $40.50 in the baseline model
+● Collaborated with 2 other Ph.D. students and one postdoc as part of an Erdős Institute bootcamp
+Constructing Balanced Tensors (Ph.D. research on Smyth’s Conjecture) 2020-2023
+● Researched and implemented algorithms to construct nonnegative tensors with certain algebraic symmetries
+● Computationally verified cases of a stronger version of Smyth’s Conjecture
+● Proved a function field analogue of Smyth’s Conjecture and a reduction of the original conjecture (forthcoming)
+PUBLICATIONS
+       ● ● ● ●
+SKILLS
+● ● ● ●
+Hardt, W. and Yin, J. Linear Relations Among Galois Conjugates Over Fq(t) (2022) [Link]
+Hardt, W. and Yin, J. On an Algorithm Converging to Hyperstochastic Tensors (2022) [Link] Gollakota, A., Hardt, W., and Miklós, I. Packing Tree Degree Sequences (2020) [Link]
+Gaetz, M., Hardt, W., and Sridhar, S. Support Equalities Among Ribbon Schur Functions (2019) [Link]
+Languages & Platforms: Python, SQL, LaTeX, Sage
+Python Libraries: NumPy, pandas, scikit-learn, matplotlib, seaborn
+Machine Learning: PyTorch, standard supervised and unsupervised learning algorithms Quantitative: calculus, probability, linear algebra, optimization, statistics
+     TEACHING
+● TA for ~50 students in Mathematical Foundations of Machine Learning (graduate class) 2023
+● TA for ~500 students in Calculus I, Calculus II, Discrete Math, and Linear Algebra over 8 semesters 2018-2022
+● Instructor of Record for ~20 students in Preparatory Algebra 2020
+LEADERSHIP
+Undergraduate Mentoring Program (UMP) 2022-2023
+● Advising 2-4 math undergraduates over 2 semesters on applying to grad school, internships, REUs, etc.
+  Committee for TA Policies and Procedures (CTAPP)
+● Represented TAs in discussions of department policy
+● Reviewed and provided feedback on ~30 TAs’ evaluations Directed Reading Program (DRP)
+● Mentored 6 undergraduate math students over 4 semesters in advanced independent study EDUCATION
+●
+University of Wisconsin - Madison, Ph.D. in Mathematics Advisor: Jordan Ellenberg
+Research area: Additive combinatorics
+GPA: 3.90
+Carleton College, B.A. in Mathematics, magna cum laude
+Distinction for senior thesis on Gröbner bases and Hilbert’s Nullstellensatz GPA: 3.83
+Budapest Semesters in Mathematics
+2021–2022 2019-2021
+December 2023
+June 2018 Fall 2016
+ Achieved honors for receiving an A/A+ in 4+ classes
+"

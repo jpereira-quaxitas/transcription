@@ -1,0 +1,99 @@
+Zulfiqar Ali
+6 Winchester Street, London, W3 8PA | 00447788193409 | zulfiqar.ali1289@gmail.com
+EDUCATION
+ GeorgiaInstituteofTechnology
+MS in Analytics: 4.0 GPA
+Relevant coursework: Machine Learning, Simulation, Optimisation, Statistics
+ LondonSchoolofEconomics
+Graduate Diploma in Mathematics
+Honours: Top mark in Mathematics of Finance and Valuation, graduated with Distinction
+ CFA:Passedlevel3
+ UniversityofCambridge(Queens’College)
+CompletedApr2021
+CompletedAug2018
+CompletedJun2017 CompletedJun2013
+ MA, BA (Hons) in Law
+Honours: 800th Anniversary Scholarship from Cambridge Commonwealth Trust (merit-based, 100% scholarship) Relevant coursework: Law and Economics (devised model to solve problem of euthanasia using game theory) Pre-University exams: A levels – World record (35 A and AS subjects: 6 A*’s, 25 A’s, 3 B’s, 1 C), SAT - 2290 (Reasoning), 800 (Biology M), 800 (Mathematics IIC), 780 (Chemistry), 710 (Literature)
+PROFESSIONAL EXPERIENCE
+Balyasny Asset Management (global, multi-strategy hedge fund)
+Analyst/Trader
+ Performance:
+o Top performer in 2021 and 2022 (YTD)
+o Managed one-third of the total team risk/volatility allocation. Allocation increased 5 times o Achieved 8 figures average profit. Sharpe: 2.7, Sortino: 3.0
+ Fundamental analysis:
+o Built short-term power model from scratch and helped improve and use the team stack model o Implemented factor adjustment for historic biases
+o Provided research and insight into portfolio construction and ad-hoc trade ideas
+ Systematic strategies:
+o Developed fundamental signals that could be systematically traded
+o Assisted in refining weather-based and price-based systematic strategies
+o Researched potential uplift from using complex statistical models for prediction
+ Infrastructure:
+o Built infrastructure for models (in Python) to run autonomously in the cloud o Assisted in improving and fixing modules for other parts of the portfolio
+ Market interaction:
+o Managed execution and developed schema for hedging the portfolio
+o Developed relationships with brokers and middle office for best price discovery
+Energi Danmark (power and commodities proprietary trading firm)
+Lead Short Term Trader
+ Led team of 6 traders and 2 analysts to monetise the short-term power market: o Achieved 8 figures team profit
+London, UK
+Mar 2021-Present
+o Headed task force to develop new pan-European fundamental model to forecast power market prices
+o Mentored new traders and analysts and encouraged knowledge sharing
+Commodities Trader/Quantitative Researcher Nov 2018-Jan 2021  Developed the short-term OTC trading (day-ahead to month-ahead) into a profitable venture:
+o Analysed and traded European power markets (including DE, FR, NL, BE, AT, UK, ES, IT, HU, CZ etc.) o Created new fundamental models for Italy, Germany and France using Python
+o Most profitable short-term trader in firm (Sharpe: 2.5, Sortino: 3.5, PnL/VAR: 22x)
+ Initiated research projects in power, emissions, gas and other commodities to increase avenues of monetisation: o Implemented machine learning models to extract value from spreads in commoditiesmarkets
+o Developed new and improved existing fundamental inputs through factor research
+o Generated and tested fundamental hypotheses to explain market behaviour
+o Projects led to discovery of systematic strategies with weighted accuracy >70%  Applied ideas from other markets to commodities:
+o Instituted an options-based framework to trade spreads and outright in the power market
+Aarhus, Denmark
+Feb 2020-Jan 2021
+
+Priogen (power and commodities proprietary trading firm) Amsterdam, Netherlands
+Trader/Quantitative Researcher May 2017-Nov 2018 ● Analysed and traded Spain, Switzerland, Belgium, UK, Netherlands, France and Germany power markets:
+o One of the most profitable traders in the short-term power team (Sharpe: 2.0, Sortino: 3.0, PnL/VAR: 18x) o Used both delta and stack approaches to understand fundamental dynamics of the market
+o Developed new tools, in R and Python, and backtested quantitative signals to improve profitability
+● Set up the Italian power desk:
+o Most profitable new market for the firm in 2017-18
+o Created a delta-stack hybrid modelling approach - a novel way of analysis in the firm
+o Devised quantitative methods to model flows and strategic bidding. Reduced error by 30%
+o Used statistical and machine learning techniques (neural networks, random forests, ARMAX etc) to create
+proprietary, profit-enhancing models/signals. Signals improved weighted accuracy by 10%
+● Headed research into algorithmic strategies to trade the US market profitably
+● Executed trades in the Hungarian power market and aided development of other CEE markets
+● Researched other commodities markets (gas, coal, oil etc.)
+● Mmonitored spark and dark spreads, macro events and behavioural factors that may impact commodity prices
+● Learned about intraday, cross-border, emissions and power options markets
+Doxa Partners (family office of a prominent, high net worth family) London, UK
+Analyst (fundamental and quantitative researcher) Aug 2016-Apr 2017
+● Quantitatively analysed investment strategies using Python and backtested novel ideas to find alpha
+● Researched commodities using statistical and machine learning techniques (ARMA, VAR, logistic regression,
+polynomial regression etc.). Discovered a model (for gold and silver) that outperforms buy-and-hold with less volatility
+● Led fundamental analysis of debt and equity responsible for investments (3% of fund) in consumer staples sector
+Ferox Capital LLP ($2 billion convertible bond fund) London, UK
+Junior Portfolio Manager (bond trader/quantitative researcher) Apr 2014-Aug 2016
+● Pitched investment ideas (based on derivative and equity analysis) which led to investments of $200 million:
+o Ideas included calls (long bond), synthetic puts, volatility arbitrage and shorts (short bond, long equity)
+o Analysed corporate credit (including bond prospectuses), valued equity and researched macro/sectoral themes o Ideas included 3 of the firm’s top 10 most profitable trades in 2015
+● Created automated, systematic tools to analyse the portfolio and convertible universe. Tools include:
+o Quantitative and machine learning models (using Python and Matlab) to identify mispricing and to manage risk o Systematic equity analyser based on 25 yrs of backtesting to screen for stocks which may outperform themarket o Screens to automatically identify the most asymmetric (including gamma/theta ratio analysis), thecheapest
+(implied vs historic volatility) and the most hated bonds (sentiment indicators against market backdrop)
+● Analysed special situations (e.g., Dealertrak merger arbitrage) to exploit inefficiencies (in credit, equity, derivatives etc.)
+● Managed US execution (both screen and broker, 75% of all US trades) and portfolio marking
+● Led ‘Hidden Gems’: Searched prospectuses of less well-known bonds to find clauses mispriced by the market
+Espirito Santo Investment Bank (international investment bank) London, UK
+Graduate Analyst (fundamental and quantitative equity researcher in financials sector) Sep 2013-Apr 2014
+● Researched asset managers, banks, SPVs and inter-dealer brokers
+● Helped execute (valuation and pitch) a £1.5 billion IPO of an enhanced annuities provider (Just Retirement)
+CONTINUOUS TECHNICAL EDUCATION & PROFESSIONAL DEVELOPMENT
+ Deep Learning Specialisation (Deeplearning.ai): 5 courses including Sequence Models and CNNs
+ Python for Finance and Algorithmic Trading (The Python Quants): 6 modules including Computational Finance
+ Volcube: Improved derivative trading skills via games used to train traders at proprietary trading firms and banks
+ Breaking Into Wall Street: Advanced Excel Course and Financial Modelling Course
+SKILLS & INTERESTS
+Programming: Python (Numpy, Pandas, Scikit-learn, TensorFlow, Keras), MATLAB, VBA, R, SQL, C#, Scala, PySpark,
+D3, Flask, Tableau, Argo Lite, OpenRefine, AWS, GCP, Azure ML Studio, Docker, Databricks, Ubuntu
+Languages: Fluent in Urdu, Hindi
+Financial Technical Skills: Starmine, Capital IQ, Bloomberg, FactSet, Factiva, BPP technical analysis, Trayport , Eikon Interests: Strategy games (including chess), base flying, cricket, AI, moral philosophy, stand-up comedy
+ 
